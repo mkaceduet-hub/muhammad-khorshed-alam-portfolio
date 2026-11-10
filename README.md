@@ -1,6 +1,6 @@
 # Muhammad Khorshed Alam — Personal Portfolio
 
-A premium dark-modern personal portfolio presenting two complementary professional disciplines equally:
+A premium teal-and-blue personal portfolio presenting two complementary professional disciplines equally:
 
 - Web Design & Development
 - Structural Design & Analysis Engineering (RCC & Steel)
@@ -12,7 +12,7 @@ A premium dark-modern personal portfolio presenting two complementary profession
 
 ## Features
 - Responsive desktop, tablet and mobile layout
-- Modern dark visual identity
+- Fresh teal and deep-blue visual identity\n- Professional portrait included at `assets/profile.jpg`
 - Professional introduction and experience highlights
 - Separate web development and structural engineering sections
 - Portfolio cards linking to five live GitHub Pages projects
@@ -25,7 +25,7 @@ A premium dark-modern personal portfolio presenting two complementary profession
 4. Wait for GitHub Pages to publish the site.
 
 ## Before publishing
-- Replace the KA monogram with the supplied professional portrait.
+- Add confirmed email, phone, LinkedIn, Freelancer and PeoplePerHour links.
 - Add confirmed email, phone, LinkedIn, Freelancer and PeoplePerHour links.
 - Review experience wording and project links for accuracy.
 
